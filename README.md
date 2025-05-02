@@ -12,5 +12,5 @@ The service is published programmatically using `javax.xml.ws.Endpoint`.
 1. Ensure **JDK 21** and **Maven** are installed.
 2. Clone the repository and navigate to the project directory:
    ```bash
-   git clone https://github.com/your-username/your-repo.git
+   git clone https://github.com/rami-dr18/web-SOAP.git
    cd your-repo
